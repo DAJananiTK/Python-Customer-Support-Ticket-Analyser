@@ -132,16 +132,6 @@ These insights can help customer support teams:
 
 ---
 
-## 📁 Project Structure
-
-```
-Customer-Support-Ticket-Analysis/
-│
-├── Customer_Support_Ticket_Analysis.ipynb
-├── customer_support_tickets.csv
-├── README.md
-```
-
 ---
 
 ## 🚀 Future Improvements
